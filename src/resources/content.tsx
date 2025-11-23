@@ -328,7 +328,7 @@ const gallery: Gallery = {
   // These are placeholder images, replace with your own
   images: [
     {
-      src: "/images/gallery/avatar.jpg",
+      src: "/images/gallery/avatar2.jpg",
       alt: "image",
       orientation: "vertical",
     },
