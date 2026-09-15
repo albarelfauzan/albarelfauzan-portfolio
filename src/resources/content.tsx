@@ -14,7 +14,7 @@ const person: Person = {
 
 const newsletter: Newsletter = {
   display: true,
-  title: <>Subscribe to {person.firstName}'s Newsletter</>,
+  title: <>Subscribe to {person.firstName}&apos;s Newsletter</>,
   description: <>My weekly newsletter about creativity and engineering</>,
 };
 
@@ -61,7 +61,7 @@ const home: Home = {
   },
   subline: (
     <>
-      Hey i'm Albar, a full stack web dev wannabe who loves turning caffeine into code, I create things that look good and (most of the time) actually work. On the side, I build projects to satisfy my inner nerd.
+      Hey I&apos;m Albar, a full stack web dev wannabe who loves turning caffeine into code, I create things that look good and (most of the time) actually work. On the side, I build projects to satisfy my inner nerd.
     </>
   ),
 };
