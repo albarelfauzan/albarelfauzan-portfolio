@@ -25,9 +25,6 @@ export const Footer = () => {
           <Text onBackground="neutral-weak">© {currentYear} /</Text>
           <Text paddingX="4">{person.name}</Text>
           <Text onBackground="neutral-weak">
-            {/* Usage of this template requires attribution. Please don't remove the link to Once UI unless you have a Pro license. */}
-            / Build using{" "}
-            <SmartLink href="https://once-ui.com/">Once UI</SmartLink>
           </Text>
         </Text>
         <Row gap="16">

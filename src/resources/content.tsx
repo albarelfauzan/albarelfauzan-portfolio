@@ -327,11 +327,7 @@ const gallery: Gallery = {
   // Images by https://lorant.one
   // These are placeholder images, replace with your own
   images: [
-    {
-      src: "/images/gallery/avatar.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
+    
     {
       src: "/images/gallery/bcate2.png",
       alt: "image",
